@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HomeBiDu</string>
+    <string name="bidu_live">biduLive</string>
+    <string name="new_product">Sản phẩm mới nhất</string>
+    <string name="view_more">Xem thêm</string>
+    <string name="top_find">Top Tìm Kiếm</string>
+    <string name="top_seller">Top Người Bán</string>
+    <string name="top_product">Top Sản phẩm</string>
+    <string name="suggest_you">Gợi Ý Cho Bạn</string>
+    <string name="todo">TODO</string>
+    <string name="ao">Áo</string>
+    <string name="phuong_le">Phương Lê</string>
+    <string name="description">description</string>
+    <string name="selled">Đã bán: 0</string>
+    <string name="look_shop">Xem shop</string>
+</resources>
